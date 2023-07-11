@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I’m Komil, a frontend engineer specializing in the design and implementation of interfaces for web services and software. More than 2 years of experience in developing interfaces for services that are used on small and medium scales. A specialist in the development of flexible architectures and also integrating backend with frontend.
+I’m Komil, a frontend engineer specializing in the design and implementation of interfaces for web services and software. More than 3 years of experience in developing interfaces for services that are used on small and medium scales. A specialist in the development of flexible architectures and also integrating backend with frontend.
 
 Want to know more about me? [Check out my portfolio.](https://komilguliev99.github.io/profile/)
 
